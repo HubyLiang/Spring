@@ -17,6 +17,7 @@
         <br>
         <input type="submit" value="登录" />
         <input type="reset" value="重置">
+        <br>
     </form>
 </body>
 </html>
